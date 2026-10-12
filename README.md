@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shane 👋
 
-<!--
-**shanedillon-dev/shanedillon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Computer Science (Infrastructure) student at TU Dublin, looking for a software or infrastructure internship from January 2027.
 
-Here are some ideas to get you started:
+## What I've built
+**[Studyslot](https://studyslot.ie)**: a free timetable web app for TU Dublin students. Paste your calendar link and get a clean day/week view, plus free time shared with friends.
+Serverless backend on Cloudflare Workers · encrypted share links · 185 automated tests · CI/CD with GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Java · C · Python · JavaScript · SQL · Linux · Git · GitHub Actions · Cloudflare Workers
+
+## Interested in
+Infrastructure, networking, Linux and cloud.
+
+📫 [LinkedIn](https://www.linkedin.com/in/shane-dillon) · shanedillon234@gmail.com
